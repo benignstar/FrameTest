@@ -39,22 +39,23 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:background="#ff0000">
+            android:background="#ff6464">
         </LinearLayout>
         <LinearLayout
             android:id="@+id/Linear2"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:background="#00ff00"
-            android:visibility="invisible">
+            android:background="#00aeff"
+            android:visibility="invisible"
+            >
         </LinearLayout>
         <LinearLayout
             android:id="@+id/Linear3"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical"
-            android:background="#0000ff"
+            android:background="#ffd061"
             android:visibility="invisible">
 
         </LinearLayout>
